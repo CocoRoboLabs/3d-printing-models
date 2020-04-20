@@ -2,8 +2,6 @@
 
 A repository that stored our open-sourced 3D printing models.
 
----
+## Current available:
 
-Current available:
-
-* Semi-auto Light/AC Switch Structure for Hong Kong resident, Designed by Chaowen Huang.
+* [Semi-auto Light/AC Switch Structure for Hong Kong resident](https://github.com/CocoRoboLabs/3d-printing-models/tree/master/hongkong-light-switch-panel-structure), Designed by Chaowen Huang.
