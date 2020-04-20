@@ -1,4 +1,6 @@
-# 3d-printing-models
+# 3D Models by CocoRobo
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A repository that stored our open-sourced 3D printing models.
 
