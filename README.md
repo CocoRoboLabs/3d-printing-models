@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A repository that stored our open-sourced 3D model files.
+Open-sourced 3D model files published by CocoRobo LTD.
 
 ## Currently Available:
 
