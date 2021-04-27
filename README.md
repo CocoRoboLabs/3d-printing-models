@@ -6,4 +6,5 @@ A repository that stored our open-sourced 3D model files.
 
 ## Currently Available:
 
-* [Semi-auto Light/AC Switch Structure for Hong Kong resident](https://github.com/CocoRoboLabs/3d-printing-models/tree/master/hongkong-light-switch-panel-structure), Designed by Chaowen Huang.
+* [Semi-auto Light/AC Switch Structure for Hong Kong resident](/hongkong-light-switch-panel-structure), Designed by Chaowen Huang.
+* [Tripod Mount Fixed Bracket Clip for CocoRobo Modules](/tripod-mount), Designed by Chaowen Huang.
